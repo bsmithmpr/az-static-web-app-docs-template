@@ -6,7 +6,7 @@ authors = ["Your Name <you@example.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "3.10.8"
+python = "3.10.12"
 mkdocs = "^1.2.4"
 mkdocs-material = "^9.4.1"
 mkdocs-git-revision-date-plugin = "^0.3.1"
