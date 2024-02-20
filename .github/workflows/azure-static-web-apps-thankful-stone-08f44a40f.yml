@@ -29,7 +29,7 @@ jobs:
         uses: pronovic/setup-poetry@v1
         with:
           version: "1.7.1"
-          plugins: "poetry-plugin-export@==1.1.2"
+          plugins: "poetry-plugin-export@==1.6.0"
           cache-venv: "true"
           cache-poetry: "true"
 
