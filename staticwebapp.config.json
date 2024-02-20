@@ -26,7 +26,7 @@
         },
         {
             "route": "/*",
-            "allowedRoles": ["reader", "contributer"]
+            "allowedRoles": ["authenticated"]
         }
     ],
     
